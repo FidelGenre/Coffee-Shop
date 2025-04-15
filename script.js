@@ -12,14 +12,14 @@ const products = [
       title: "Ethiopian Yirgacheffe",
       description: "Bright and fruity with notes of citrus and berries.",
       price: 16.99,
-      image: "ASSETS/Untitleddesign_67_1024x1024.webp",
+      image: "assets/Untitleddesign_67_1024x1024.webp",
     },
     {
       id: 3,
       title: "Sumatra Mandheling",
       description: "Earthy and full-bodied with low acidity and a chocolate finish.",
       price: 15.99,
-      image: "ASSETS/D_NQ_NP_837822-MLM79294728887_092024-O.webp",
+      image: "assets/D_NQ_NP_837822-MLM79294728887_092024-O.webp",
     },
     {
       id: 4,
